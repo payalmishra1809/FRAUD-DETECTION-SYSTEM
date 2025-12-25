@@ -1,0 +1,5 @@
+,AUC,Precision,Recall
+LogisticRegression,0.9713,0.0581,0.9184
+RandomForest,0.9632,0.8854,0.8673
+XGBoost,0.9782,0.7679,0.8776
+IsolationForest,0.0457,0.0011,0.6633
